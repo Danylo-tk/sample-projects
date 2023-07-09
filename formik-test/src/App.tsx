@@ -1,9 +1,7 @@
+import BasicForm from "./components/BasicForm";
+
 function App() {
-  return (
-    <>
-      <h1></h1>
-    </>
-  );
+  return <BasicForm />;
 }
 
 export default App;
