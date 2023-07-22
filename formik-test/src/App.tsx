@@ -5,7 +5,7 @@ import StandartForm from "./components/StandartForm";
 function App() {
   return (
     <>
-      <h1>Reusable forms</h1>
+      <h1>Reusable form</h1>
       <ReusableForm />
       <h1>Basic form</h1>
       <BasicForm />
